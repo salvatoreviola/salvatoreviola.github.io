@@ -14,8 +14,8 @@ website:
         text: Teaching
       - href: 03-cv.qmd
         text: CV
-      - href: 04-about.qmd
-        text: About
+      # - href: 04-about.qmd
+        # text: About
 
 format:
   html:

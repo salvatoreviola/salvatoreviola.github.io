@@ -11,26 +11,20 @@ body-classes: home-page
 ::: {.home-left}
 ![](images/profile.jpg){.profile-photo}
 
-# Salvatore Viola
 
-PhD Student in Economics  
-Universitat de Barcelona  
-<sviola@ub.edu>
-
-
-<div class="social-links">
-  <a href="https://github.com/salvatoreviola" target="_blank" rel="noopener noreferrer" aria-label="GitHub">
-    <i class="bi bi-github"></i>
-  </a>
-  <a href="https://www.linkedin.com/in/salvatore-viola-03078a1b8/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn">
-    <i class="bi bi-linkedin"></i>
-  </a>
-</div>
 :::
 
 ::: {.home-right}
-# Welcome
+<h2 class="name-row">
+  <span class="name-text">Salvatore Viola</span>
+  <span class="social-links">
+    <a href="mailto:sviola@ub.edu" aria-label="Email"><i class="bi bi-envelope-fill"></i></a>
+    <a href="https://github.com/salvatoreviola" target="_blank" rel="noopener noreferrer" aria-label="GitHub"><i class="bi bi-github"></i></a>
+    <a href="https://www.linkedin.com/in/salvatore-viola-03078a1b8/" target="_blank" rel="noopener noreferrer" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+  </span>
+</h2>
 
-I am thrid-year PhD Student in Economics at the Universitat de Barcelona affiliated with the Quantitative Regional Analysis Group (AQR-IREA). My research interest include the geography of innovation and science with a particular focus on environmental-realted science and innovation as well as migration.
+
+I am thrid-year PhD Student in Economics at the [Universitat de Barcelona](https://www.ub.edu/school-economics/) affiliated with the Quantitative Regional Analysis Group ([AQR-IREA](https://www.ub.edu/aqr/)). My research interest include the geography of innovation and science with a particular focus on environmental-realted science and innovation as well as migration.
 :::
 :::

@@ -1,18 +1,53 @@
 /* css styles */
 
 .home-page .quarto-container {
-  max-width: 1300px;
+  max-width: none;
+}
+
+.home-page .navbar {
+  background: transparent !important;
+  box-shadow: none;
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  z-index: 1000;
+}
+
+.home-page .navbar .navbar-brand,
+.home-page .navbar .nav-link,
+.home-page .navbar .navbar-title {
+  color: #fff !important;
+  font-weight: 700;
+}
+
+.home-page #quarto-search svg,
+.home-page #quarto-search .aa-SubmitIcon {
+  color: #fff !important;
+  fill: #fff !important;
+}
+
+.home-page #title-block-header {
+  display: none;
+}
+
+.home-page #quarto-content,
+.home-page #quarto-document-content {
+  padding-top: 0;
 }
 
 .home-hero {
-  width: 100vw;
-  margin-left: calc(50% - 50vw);
-  margin-bottom: 2rem;
+  margin: -56px calc(50% - 50vw) 2rem;
+}
+
+.home-hero p {
+  margin: 0;
 }
 
 .hero-image {
-  width: 100%;
-  height: 380px;
+  width: 100vw;
+  max-width: none;
+  height: clamp(200px, 26vw, 340px);
   object-fit: cover;
   display: block;
   border-radius: 0;
@@ -32,10 +67,22 @@
   top: 1.5rem;
 }
 
-.home-left h1 {
+.home-right h1,
+.home-right h2 {
   font-size: 1.55rem;
-  margin-top: 1rem;
   margin-bottom: 0.35rem;
+}
+
+.name-row {
+  display: flex;
+  align-items: center;
+  gap: 0.85rem;
+  flex-wrap: wrap;
+}
+
+.name-row h1,
+.name-row h2 {
+  margin: 0;
 }
 
 .profile-photo {
@@ -62,6 +109,10 @@
     text-align: center;
   }
 
+  .name-row {
+    justify-content: center;
+  }
+
   .profile-photo {
     max-width: 220px;
     margin: 0 auto;
@@ -70,7 +121,8 @@
 
 
 .social-links {
-  margin-top: 0.75rem;
+  margin-top: 0;
+  margin-bottom: 0.35rem;
   display: flex;
   gap: 0.8rem;
   align-items: center;
