@@ -1,0 +1,35 @@
+{
+  "about.qmd": {
+    "about.html": "0333898f"
+  },
+  "index.qmd": {
+    "index.html": "c8f17660"
+  },
+  "research.qmd": {
+    "research.html": "8928da6a"
+  },
+  "teaching.qmd": {
+    "teaching.html": "e10e246a"
+  },
+  "cv.qmd": {
+    "cv.html": "217b7893"
+  },
+  "02-teaching.qmd": {
+    "02-teaching.html": "f3561b53"
+  },
+  "00-index.qmd": {
+    "00-index.html": "6c018769"
+  },
+  "01-research.qmd": {
+    "01-research.html": "b7c638d3"
+  },
+  "04about.qmd": {
+    "04about.html": "8c552b13"
+  },
+  "03-cv.qmd": {
+    "03-cv.html": "e8997da2"
+  },
+  "04-about.qmd": {
+    "04-about.html": "2316e20d"
+  }
+}

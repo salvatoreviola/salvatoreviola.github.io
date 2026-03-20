@@ -1,0 +1,23 @@
+---
+title: "Research"
+---
+
+## Works In Progress
+
+**From Disaster to Discovery: Regional Responses to Climate Shocks in Science and Innovation**  
+  with Ernest Miguelez and Rosina Moreno
+
+
+
+## Working Papers
+
+**Migrant Inventors and Environmental-Related Technologies: A Life Cycle Perspective in the U.S.**  
+(AQR WP 2025/8) with Ernest Miguelez, Rosina Moreno, Davide Consoli, and Francois Perruchas
+
+Abstract:  
+
+>  One important factor in addressing climate change is the development and deployment of environmental-related, or green, technologies (GT). Green technologies are distinct and require specific conditions for development, which vary by their level of technological maturity. Recent studies have focused on the role of migrant inventors in creating these conditions and spurring regional diversification into new technological domains. Regional diversification helps regions avoid lock-in and even escape fossil fuel dependencies. While the contribution of migrants to science and innovation is well documented, little is known about their role in the domain of GT. To fill this gap, we investigate the role of U.S.-based migrant inventors in regional GT diversification using USPTO patent data from 1990 to 2012. We find that migrant inventors are positively associated with regional GT diversification, and that this association depends on their previous patenting experience as well as the specializations of their countries of origin. With regard to technological maturity, while geographically diffused technologies rely on corresponding inventor experience, emergent technological diversification benefits from inventors from specialized countries. These findings highlight the bridging role of migrant inventors in international knowledge transfer and their importance for regional diversification into environmental-related technologies.
+
+Recommended citation: 
+
+ Viola, Salvatore and Moreno, Rosina and Miguélez, Ernest and Consoli, Davide and Perruchas, François, Migrant Inventors and Environmental-Related Technologies: A Life Cycle Perspective in U.S. MSAs. Available at SSRN: <https://ssrn.com/abstract=6435915> or <http://dx.doi.org/10.2139/ssrn.6435915> 

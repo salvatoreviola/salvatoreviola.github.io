@@ -1,0 +1,18 @@
+---
+title: "Teaching"
+---
+
+## Universitat de Barcelona
+
+**Introduction to Stata and Matlab** (MSc in Economics)  
+  Co-instructor with Prof. Rafael Serrano-Quintero  
+  *Fall 2023, 2024, 2025 (12 hours)*  
+  [Course materials](https://github.com/salvatoreviola/intro-to-stata)
+
+**Econometrics** (BS in International Business)  
+  Teaching Assistant of Prof. Antonio Di Paolo  
+  *Spring 2024, 2025 (14 hours)*
+
+**Spatial Econometrics** (MSc in Economics)  
+  Teaching Assistant of Prof. Rosina Moreno  
+  *Spring 2024 (6 hours)*

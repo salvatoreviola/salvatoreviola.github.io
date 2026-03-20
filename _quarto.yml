@@ -1,0 +1,27 @@
+project:
+  type: website
+
+website:
+  title: "Salvatore Viola"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - href: 01-research.qmd
+        text: Research
+      - href: 02-teaching.qmd
+        text: Teaching
+      - href: 03-cv.qmd
+        text: CV
+      - href: 04-about.qmd
+        text: About
+
+format:
+  html:
+    theme:
+      - cosmo
+      - brand
+    css: styles.css
+    toc: true
+
+
