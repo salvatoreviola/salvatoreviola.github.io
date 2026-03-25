@@ -106,9 +106,12 @@
 .profile-photo {
   width: 100%;
   max-width: 300px;
-  border-radius: 10px;
+  height: 300px; /* or whatever height you want */
+  border-radius: 5px;
   display: block;
   margin: 0;
+  object-fit: cover; /* crops to fill the box */
+  object-position: center; /* controls which part shows */
 }
 
 @media (max-width: 768px) {

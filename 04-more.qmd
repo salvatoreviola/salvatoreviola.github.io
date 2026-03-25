@@ -4,4 +4,4 @@ title: "More Stuff"
 
 ## Economic Research Project Template
 
-This github repository gives an overview of how to manage a project from start to finish, all within VS Code. You can run Python scripts, edit and compile Latex documents and even run code in Stata and R. If having all of this in one application on you computer sounds interesting, take a look [here](https://github.com/salvatoreviola/project-template)!
+This GitHub repository provides an overview of how to manage an empirical research project within VS Code. You can run Python scripts, edit and compile Latex documents, and even run code in Stata. If maintaining all of this through one application on you computer sounds interesting, take a look [here](https://github.com/salvatoreviola/project-template)!

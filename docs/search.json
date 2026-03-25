@@ -46,20 +46,20 @@
     "href": "index.html",
     "title": "Salvatore Viola",
     "section": "",
-    "text": "Salvatore Viola     \n\nI am a third-year PhD Student in Economics at the Universitat de Barcelona (UB) affiliated with the Quantitative Regional Analysis Group (AQR-IREA). My research interests include the geography of innovation and the economics of science. I am particularly interested in environmental-related science and innovation as well as how migration contributes to the global diffusion of knowledge."
+    "text": "Salvatore Viola     \n\nI am a third-year PhD Student in Economics at the Universitat de Barcelona (UB) affiliated with the Quantitative Regional Analysis Group (AQR-IREA). My PhD thesis is supervised jointly by Rosina Moreno and Ernest Miguelez.\nMy research interests include the geography of innovation and the economics of science. I am particularly interested in environmental-related science and innovation as well as how migration contributes to the global diffusion of knowledge."
   },
   {
     "objectID": "04-more.html",
     "href": "04-more.html",
     "title": "More Stuff",
     "section": "",
-    "text": "This github repository gives an overview of how to manage a project from start to finish, all within VS Code. You can run Python scripts, edit and compile Latex documents and even run code in Stata and R. If having all of this in one application on you computer sounds interesting, take a look here!"
+    "text": "This GitHub repository provides an overview of how to manage an empirical research project within VS Code. You can run Python scripts, edit and compile Latex documents, and even run code in Stata. If maintaining all of this through one application on you computer sounds interesting, take a look here!"
   },
   {
     "objectID": "04-more.html#economic-research-project-template",
     "href": "04-more.html#economic-research-project-template",
     "title": "More Stuff",
     "section": "",
-    "text": "This github repository gives an overview of how to manage a project from start to finish, all within VS Code. You can run Python scripts, edit and compile Latex documents and even run code in Stata and R. If having all of this in one application on you computer sounds interesting, take a look here!"
+    "text": "This GitHub repository provides an overview of how to manage an empirical research project within VS Code. You can run Python scripts, edit and compile Latex documents, and even run code in Stata. If maintaining all of this through one application on you computer sounds interesting, take a look here!"
   }
 ]
