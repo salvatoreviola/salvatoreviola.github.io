@@ -25,6 +25,6 @@ body-classes: home-page
 </h2>
 
 
-I am a third-year PhD Student in Economics at the [Universitat de Barcelona](https://www.ub.edu/school-economics/) affiliated with the Quantitative Regional Analysis Group ([AQR-IREA](https://www.ub.edu/aqr/)). My research interests include the geography of innovation and science with a particular focus on environmental-related science and innovation as well as migration.
+I am a third-year PhD Student in Economics at the **Universitat de Barcelona** ([UB](https://www.ub.edu/school-economics/)) affiliated with the **Quantitative Regional Analysis Group** ([AQR-IREA](https://www.ub.edu/aqr/)). My research interests include the geography of innovation and the economics of science. I am particularly interested in environmental-related science and innovation as well as how migration contributes to the global diffusion of knowledge. 
 :::
 :::
